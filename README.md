@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @frozenthirdyear
-- 👀 I’m interested in modding games (Skyrim) and making 3D characters and props from scratch.
-- 🌱 I’m currently learning 3D character creation and basic Papyrus scripting for Skyrim.
-- 💞️ I’m not currently looking to collaborate. I'm strictly a parlor modder.
-- 📫 How to reach me: Twitter under the same name.
+I mod Skyrim and create 3D characters and props from scratch.
+Not actively looking to collaborate on anything.
+How to reach me: Discord under the same name, or NexusMods as th3rm0pyl43. 
 
 <!---
 frozenthirdyear/frozenthirdyear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
